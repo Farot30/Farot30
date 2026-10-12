@@ -70,7 +70,7 @@ Actualmente profundizando en el área de seguridad y observabilidad de sistemas:
 
 | Mi Actividad | Lenguajes más usados |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Farot3&show_icons=true&theme=tokyonight&count_private=true" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farot3&layout=compact&theme=tokyonight" width="300px" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Farot30&show_icons=true&theme=tokyonight&count_private=true" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farot30&layout=compact&theme=tokyonight" width="300px" /> |
 
 </div>
 
